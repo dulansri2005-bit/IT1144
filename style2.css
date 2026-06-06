@@ -1,0 +1,158 @@
+body{
+	background-image:url("newbgimage.png");
+	height:100vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+.navigationbar nav a{
+	text-decoration:none;
+	margin-right:20px;
+}
+.header{
+	justify-content:space-between;
+	align-items:center;
+	display:flex;
+	background:transparent;
+}
+
+.logo{
+	color:orange;
+	margin-left:80px;
+}
+nav a{
+	color:white;
+}
+nav a:hover{
+	color:orange;
+}
+.searchbar{
+	color:#D45E19;
+	border :3px solid orange;
+	border-radius:5px;
+	margin-right:80px;
+	
+}
+.btn{
+	margin-left:none;
+	background-color:orange;
+	color:white;
+	font-size:17px;
+	border:0;
+}
+.search1{
+	width:200px;
+	height:18px;
+	border:0;
+	background:transparent;
+	background-color:none;
+}
+nav{
+	justify-content:center;
+	margin-left:100px;
+}
+.home{
+	margin-top:200px;
+	justify-content:space-between;
+	display:flex;
+}
+
+.title{
+	text-align:center;
+	background-image:url("login44.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+.unit{
+	font-size:45px;
+	color:white;
+}
+.development{
+	color:orange;
+}
+.content p{
+	color:white;
+}
+.content{
+	margin-left:80px;
+}
+.join{
+	background-color:orange;
+	color:white;
+	border:none;
+	border-color:none;
+	border-radius:5px;
+	font-size:14px;
+	width:100px;
+	height:50px;
+	
+}
+.login{
+	margin-right:200px;
+	background-color:black;
+	padding:40px;
+	padding-right:60px;
+	padding-left:60px;
+	border-radius:20px;
+	border:1px solid orange;
+	display:flex;
+}
+.login form .title{
+	background-color:white;
+	border-radius:10px;
+	padding-left:50px;
+	padding-right:50px;
+	justify-content:center;
+	display:flex;
+	
+}
+.email{
+	color:white;
+	border-radius:5px;
+	background-color:none;
+	BACKGROUND:transparent;
+	width:200px;
+	border:0;
+	border-bottom:2px solid orange;
+}
+.password{
+	color:white;
+	border-radius:5px;
+	background-color:none;
+	BACKGROUND:transparent;
+	width:200px;
+	border:0;
+	border-bottom:2px solid orange;
+	
+	
+}
+
+.account{
+	color:white;
+}
+.item{
+	text-decoration:none;
+	color:white;
+}
+.pass{
+	margin:20px;
+}
+
+.home{
+	justify-content:space-between;
+}
+.join:hover{
+	background-color:aqua;
+}
+.hero{
+	background-color:orange;
+	color:white;
+	border-radius:2px;
+	border:0;
+	padding:10px;
+	margin:5px;
+	width:100px;
+}
+	
