@@ -1,0 +1,198 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+	font-family:Arial;
+}
+body{
+	background-color:#8FBC8B;
+}
+.container{
+	background-color:#FFFFF0;
+	margin:0;
+	padding:20px;
+	justify-content:space-between;
+	display:flex;
+	text-align:center;
+	align-items:center;
+}
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+a{
+	text-decoration:none;
+	color:#006400;
+	align-items:center;
+}
+.menu{
+	align-items:center;
+	justify-content:space-between;
+	margin-left:200px;
+}
+
+.menu ul li a:hover{
+	color:#00FA9A;
+}
+li{
+	display:inline;
+	margin-right:30px;
+}
+nav{
+	justify-content:center-between;
+	display:flex;
+	text-align:center;
+	align-items:center;
+}
+nav ul li a{
+	text-align:center;
+}
+.button{
+	text-decoration:none;
+	color:white;
+}
+button{
+	border-radius:4px;
+	background-color:#006400;
+	text-align:center;
+	margin:2px;
+	padding:2px;
+	font-size:20px;
+}
+.logo{
+	margin-right:200px;
+	display:flex;
+	justify-content:space-between;
+}
+.cart{
+	margin-left:200px;
+}
+
+.logo{
+	font-weight:bold;
+	font-size:20px;
+	font-family:none;
+}
+
+.item{
+	margin:100px;
+	padding:20px;
+	background-color:#FFFFFF;
+	justify-content:space-between;
+	display:inline;
+	display:flex;
+	margin-top:0;
+}
+.item h1{
+	font-size:50px;
+}
+.item p{
+	font-size:18px;
+}
+
+.img-item{
+	width:500px;
+	height:250px;
+	margin:auto;
+	border-radius:20px;
+}
+
+.img-border{
+	border:6px solid green;
+	border-radius:20px;
+	margin-left:0;
+	width:100%;
+}
+
+nav{
+    width: 95%;
+    margin: auto;
+	justify-content:space-between;
+	display:flex;
+}
+.price{
+	display:flex;
+	justify-content:space-between;
+	background-color:white;
+	padding:30px;
+	margin-top:0;
+}
+.image-1{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+	border:6px solid green;
+	border-radius:20px;
+}
+.image-2{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+	border:6px solid green;
+	border-radius:20px;
+}
+.image-3{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+	border:6px solid green;
+	border-radius:20px;
+}
+.image-4{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+	border:6px solid green;
+	border-radius:20px;
+}
+.product{
+	display:flex;
+	justify-content:space:between;
+}
+
+.our-product{
+	text-align:center;
+	margin-left:50px;
+}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
